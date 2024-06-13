@@ -1,4 +1,12 @@
-enunciado: "Quais qualidades você mais valoriza em si mesmo?",
+const caixaPrincipal = document.querySelector(".caixa-principal");
+const caixaPerguntas = document.querySelector(".caixa-perguntas");
+const caixaAlternativas = document.querySelector(".caixa-alternativas");
+const caixaResultado = document.querySelector(".caixa-resultado");
+const textoResultado = document.querySelector(".texto-resultado");
+
+const perguntas = [
+    {
+            enunciado: "Quais qualidades você mais valoriza em si mesmo?",
         alternativas: [
             {
                 texto: "Introvertido, racional, perspicaz, agitado, analista, criativo, independente, decidido, solitário, sincero, senso de humor sarcástico.",
