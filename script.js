@@ -48,12 +48,11 @@ const perguntas = [
         enunciado: "Um grande amigo seu, ( seu Pet não conta) de um dia para o outro, começa a te evitar, e ser mais seco, sem nenhum motivo aparente, ao questionar, ele responde que está normal e logo sai. Você…",
         alternativas: [
             {
-                texto: "gosta de dar apoio emocional aos amigos e entes queridos, mas nem sempre sabe como. E, por não conseguir decidir qual a melhor forma de dar esse apoio, pode não chegar a fazer ou a dizer nada.
- ",
+                texto: "gosta de dar apoio emocional aos amigos e entes queridos, mas nem sempre sabe como. E, por não conseguir decidir qual a melhor forma de dar esse apoio, pode não chegar a fazer ou a dizer nada.",
                 afirmacao: "Quer compreender tudo o que faz parte do universo, mas há uma área que costuma intrigá-lo particularmente: a natureza humana."
             },
             {
-                texto: "dificilmente deixa que uma amizade acabe por falta de esforço. Em vez disso, se dedica para conversar e entender seu amigo, não se limitando a enviar apenas uma mensagem de "tudo bem?"",
+                texto: "dificilmente deixa que uma amizade acabe por falta de esforço. Em vez disso, se dedica para conversar e entender seu amigo, não se limitando a enviar apenas uma mensagem de tudo bem?",
                 afirmacao: "Seu senso de lealdade é intenso,mas a intensidade do seu compromisso e desejo de servir tem suas desvantagens. Há quem possa se aproveitar da natureza prestativa e trabalhadora, levando-o a se sentir exausto e sobrecarregado."
             }
         ]
@@ -70,5 +69,3 @@ const perguntas = [
                 afirmacao: "Parabéns, seria você um filho perdido de kripton? Sua personalidade combina com a do SUPERMAN!"
             }
         ]
-    },
-];
