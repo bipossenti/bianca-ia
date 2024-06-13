@@ -36,7 +36,8 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Isto faz com que se sinta tão exausto, fica com o desfile interminável de pensamentos nas sua mente, que o pode impedir de fazer o que quer que seja.",
- afirmacao: "afirmação"            },
+ afirmacao: "afirmação"           
+            },
             {
                 texto: "Respira fundo, liga para um amigo próximo, sai de casa para relaxar e se divertir evitando pensar nas frustrações nas quais você não pode mudar",
  afirmacao: "afirmação"            }
@@ -47,7 +48,8 @@ const perguntas = [
         alternativas: [
             {
                 texto: "gosta de dar apoio emocional aos amigos e entes queridos, mas nem sempre sabe como. E, por não conseguir decidir qual a melhor forma de dar esse apoio, pode não chegar a fazer ou a dizer nada.",
- afirmacao: "afirmação"            },
+ afirmacao: "afirmação"         
+            },
             {
                 texto: "dificilmente deixa que uma amizade acabe por falta de esforço. Em vez disso, se dedica para conversar e entender seu amigo, não se limitando a enviar apenas uma mensagem de tudo bem?",
  afirmacao: "afirmação"            }
@@ -58,7 +60,8 @@ const perguntas = [
         alternativas: [
             {
                 texto: "cores escuras, como Preto, Cinza, Roxo, Bordo. Porém gosto de cores como Amarelo, Verde, Branco.",
- afirmacao: "afirmação"            },
+ afirmacao: "afirmação"           
+            },
             {
                 texto: "Gosto de Azul,Vermelho, Amarelo, Marrom, Laranja.",
  afirmacao: "afirmação"            }
