@@ -1,17 +1,3 @@
-
-       
-
-     
-                texto: "Gosto de Azul,Vermelho, Amarelo, Marrom, Laranja.",
-                afirmacao: "Parabéns, seria você um filho perdido de kripton? Sua personalidade combina com a do SUPERMAN!"
-            }
-        ]
-    },
-];
-
-
-
-
 const caixaPrincipal = document.querySelector(".caixa-principal");
 const caixaPerguntas = document.querySelector(".caixa-perguntas");
 const caixaAlternativas = document.querySelector(".caixa-alternativas");
