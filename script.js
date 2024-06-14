@@ -31,8 +31,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "O pensamento constitui a grandeza do homem. O homem não passa de um caniço, o mais fraco da natureza, mas é um caniço pensante.",
-                afirmacao: "Não aprende
-coisas novas apenas para impressionar os outros, você realmente se deleita ao ampliar os horizontes do conhecimento."
+                afirmacao: "Não aprende coisas novas apenas para impressionar os outros, você realmente se deleita ao ampliar os horizontes do conhecimento."
             },
             {
                 texto: "Muda ao longo do dia. Acorda e é uma pessoa, e quando vai dormir sabe, com certeza, que é alguém diferente.",
