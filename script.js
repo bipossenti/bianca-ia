@@ -13,7 +13,7 @@ const perguntas = [
                 afirmacao: "afirmação"
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Introvertido, Realista, emocional, explorador, flexível, mente aberta, bondosos por natureza, acredita em segunda chance, se moldam de acordo com quem conversam!",
                 afirmacao: "afirmação"
             }
         ]
