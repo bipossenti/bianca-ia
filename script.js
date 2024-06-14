@@ -1,3 +1,11 @@
+
+       
+
+    
+
+
+
+
 const caixaPrincipal = document.querySelector(".caixa-principal");
 const caixaPerguntas = document.querySelector(".caixa-perguntas");
 const caixaAlternativas = document.querySelector(".caixa-alternativas");
@@ -66,7 +74,7 @@ const perguntas = [
             },
             {
                 texto: "Gosto de Azul,Vermelho, Amarelo, Marrom, Laranja.",
-                afirmacao: "afirmação"
+                afirmacao: "Parabéns, seria você um filho perdido de kripton? Sua personalidade combina com a do SUPERMAN!"
             }
         ]
     },
@@ -105,7 +113,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "Você…";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
